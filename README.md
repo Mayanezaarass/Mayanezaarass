@@ -2,7 +2,7 @@
 
 Meu nome é Mayane Zaara
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e compartilhamentos dos meus projetos desenvolvidos
 
@@ -10,5 +10,5 @@ Meu nome é Mayane Zaara
 
 00001114004674sp@al.educacao.sp.gov.br
 
-![]()
+![](https://media1.tenor.com/m/NGndp_bbi1gAAAAC/twig.gif)
 
